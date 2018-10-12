@@ -1,4 +1,4 @@
-# Tenis Refactoring Kata
+﻿# Tenis Refactoring Kata
 
 Imagina que trabajas para una empresa de consultoría, y uno de tus colegas ha estado trabajando para la Sociedad de Tenis. El contrato es por 10 horas de trabajo facturable, y su colega ha pasado 8,5 horas trabajando en él. Lamentablemente ahora se ha enfermado. Él dice que ha completado el trabajo, y todas las pruebas pasan. Tu jefe te ha pedido que te encargues de él. Quiere que pases una hora más o menos en el código para que pueda facturar al cliente las 10 horas completas. Ella le da instrucciones para que arregle un poco el código y quizás tome algunas notas para que pueda darle a su colega algunos comentarios sobre el diseño elegido. También debe prepararse para hablar con su jefe sobre el valor de este trabajo de refactorización, más allá de las horas adicionales facturables.
 
@@ -20,3 +20,7 @@ Puede leer más sobre las puntuaciones de tenis [aquí] (http://en.wikipedia.org
 4. Si al menos tres puntos han sido anotados por cada lado y un jugador tiene un punto más que su oponente, la puntuación del juego es "Ventaja" para el jugador que está a la cabeza.
 
 Solo necesitas reportar la puntuación del juego actual. Conjuntos y partidos están fuera de alcance.
+
+Cristian Camilo Belalcazar Dorado
+Norman Alfonso Basto Cardona
+somos de la universidad de la amazonia, Florencia-Caquetá
